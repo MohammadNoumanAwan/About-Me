@@ -5,7 +5,7 @@ Hi, I'm **Muhammad Nouman** a graduate and a passionate tech enthusiast with a s
 
 **Frontend Development** (HTML, CSS, JavaScript, React)
 
-**WordPress Development** & SEO Optimization
+**WordPress Development** & **SEO Optimization**
 
 **AI/ML Projects**, including sentiment analysis and deep learning models
 
